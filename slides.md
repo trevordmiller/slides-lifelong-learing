@@ -116,7 +116,7 @@ I recommend _Edgar_ but any social media automation software will work
 
 ## Example
 
-<video src="./files/my-learning-workflow.mov" controls />
+<video src="./files/my-learning-workflow.mov" controls muted />
 
 ---
 
