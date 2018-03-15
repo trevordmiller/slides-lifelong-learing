@@ -4,7 +4,7 @@
 
 # Let's learn to learn
 
-![Learning](./images/learning.gif)
+![Learning](./files/learning.gif)
 
 ---
 
@@ -22,7 +22,7 @@
 
 I recommend _Feedly_ but any feed reader will work
 
-![My feedly](./images/my-feedly.png)
+![My feedly](./files/my-feedly.png)
 
 ---
 
@@ -52,6 +52,7 @@ etc.
 * Consistent formatting
 * Offline
 * Notes / highlights
+* Read later integration
 
 ---
 
@@ -61,7 +62,7 @@ Almost everything has RSS feeds already since it is a well established technolog
 
 You can use a tool like _fetchrss.com_ to generate one
 
-![fetchrss](./images/fetchrss.png)
+![fetchrss](./files/fetchrss.png)
 
 ---
 
@@ -83,7 +84,7 @@ https://hnrss.org/newest?points=500
 
 I recommend _Anki_ but any spaced repetition software (SRS) will work
 
-![My anki](./images/my-anki.png)
+![My anki](./files/my-anki.png)
 
 ---
 
@@ -99,7 +100,7 @@ I recommend _Anki_ but any spaced repetition software (SRS) will work
 
 I recommend _Edgar_ but any social media automation software will work
 
-![My edgar](./images/my-edgar.png)
+![My edgar](./files/my-edgar.png)
 
 ---
 
@@ -113,9 +114,9 @@ I recommend _Edgar_ but any social media automation software will work
 
 ---
 
-# My daily learning workflow
+## Example
 
-📖 input via feed reader => 🧠store via SRS => 🗣share via social media
+<video src="./files/my-learning-workflow.mov" controls />
 
 ---
 
@@ -129,4 +130,4 @@ Whatever you use, always be learning!
 
 # The end
 
-![Bye](./images/bye.gif)
+![Bye](./files/bye.gif)
